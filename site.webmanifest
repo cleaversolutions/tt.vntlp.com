@@ -1,6 +1,7 @@
 {
     "name": "Tulsa Tough Schedule",
     "short_name": "TT Schedule",
+    "start_url": "https://tt.vntlnp.com/",
     "icons": [
         {
             "src": "/android-chrome-144x144.png",
