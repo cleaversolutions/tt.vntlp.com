@@ -1,7 +1,7 @@
 {
   "name": "Tulsa Tough Schedule",
   "short_name": "TT Schedule",
-  "start_url": ".",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#fff",
   "description": "An unofficial Tulsa Tough schedule app.",
